@@ -70,7 +70,7 @@ body{
 
 /* Navigation Menu Items */
 .nav ul{
-	display:none; 
+	display:none;
 	float: left;
 
 }
@@ -78,7 +78,7 @@ body{
 .nav li{
 	background:aliceblue;
 	padding:30px;
-	
+
 
 }
 
@@ -100,4 +100,29 @@ body{
 
 .nav li a.active {
 	color:#3D362D;
+}
+
+.about-us {
+	list-style-type: none;
+	text-decoration: none;
+	color: black;
+	font-size: 20px;
+	font-family: "Nunito Sans", serif;
+}
+
+.professional-references {
+	list-style-type: none;
+	text-decoration: none;
+	color: black;
+	font-size: 20px;
+	font-family: "Nunito Sans", serif;
+}
+
+.linkedin {
+	list-style-type: none;
+	text-decoration: none;
+	color: black;
+	font-size: 24px;
+	font-family: "Josefine Sans", sans-serif;
+
 }
