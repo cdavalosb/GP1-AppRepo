@@ -1566,6 +1566,7 @@ Beer Bubbles Animation
   margin-top:10%
 }
 
+<<<<<<< HEAD
 #search-connect-btn a{
   font-size:55px;
   border:3px solid white;
@@ -1615,6 +1616,18 @@ Beer Bubbles Animation
   height:600px;
   width: 90%;
   margin:2% 5% 5% 5%;
+=======
+/* Navigation Menu Items */
+.nav ul{
+	display:none;
+	float: left;
+
+}
+
+.nav li{
+	background:aliceblue;
+	padding:30px;
+>>>>>>> master
 
 
 }
@@ -1787,7 +1800,38 @@ hr{
   margin:0 2.5% 2.5% 5% ;
 }
 
+<<<<<<< HEAD
 #emmma{ margin-left:5%; }
 #david{ margin-left:5%; }
 #kevin{ margin-right:5%; }
 #carlos{ margin-right:5%; }
+=======
+.nav li a.active {
+	color:#3D362D;
+}
+
+.about-us {
+	list-style-type: none;
+	text-decoration: none;
+	color: black;
+	font-size: 20px;
+	font-family: "Nunito Sans", serif;
+}
+
+.professional-references {
+	list-style-type: none;
+	text-decoration: none;
+	color: black;
+	font-size: 20px;
+	font-family: "Nunito Sans", serif;
+}
+
+.linkedin {
+	list-style-type: none;
+	text-decoration: none;
+	color: black;
+	font-size: 24px;
+	font-family: "Josefine Sans", sans-serif;
+
+}
+>>>>>>> master
